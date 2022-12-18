@@ -5,6 +5,7 @@ models
 utils
 weights
 runs
+output
 detect.py
 val.py
 export.py

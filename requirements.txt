@@ -36,4 +36,6 @@ seaborn>=0.11.0
 # roboflow
 thop  # FLOPs computation
 
+# 计算map
 pycocotools
+
