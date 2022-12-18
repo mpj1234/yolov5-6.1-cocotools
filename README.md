@@ -437,6 +437,7 @@ if __name__ == '__main__':
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/39f2fc4c9b0c49a0b050140e67ebdf3a.png)
 
 `如果发现cocotools和yolov5的test两个结果差距较大，检查你是用的置信度阈值和NMS阈值是否统一。`
+
 `我测试的结果是y使用olov5的val.py得到的map@.5和map@.5:.95值和cocotools得到的值有出入，在2个点左右`
 # 参考
 `https://blog.csdn.net/weixin_44751294/article/details/126580294`
